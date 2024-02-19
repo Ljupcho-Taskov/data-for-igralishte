@@ -646,6 +646,36 @@
           "img4": "/images/IMG_0295 1.jpg"
         }
       ]
+    },
+    {
+      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111dd",
+      "price": "500-1000",
+      "priceR": "600",
+      "size": "S",
+      "chlotes": "Vintage облека",
+      "color": "blue",
+      "discountProcent": 20,
+      "discount": true,
+      "accessories": "tashni",
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Puffer кратка јакна",
+      "category": "Bluzi",
+      "brand": "Beyond Green",
+      "img": "/images/blue-tops/1_5aecf27f-6642-4d15-9931-5c6b3568084e.webp",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2023-11-21T00:00:00.000Z",
+      "formattedDate": "November 21, 2023",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/blue-tops/1_5aecf27f-6642-4d15-9931-5c6b3568084e.webp"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/blue-tops/2_f4b6ae8e-700d-4997-8022-cbb277e3606d.webp"
+        }
+      ]
     }
   ],
   "brands": [
