@@ -663,8 +663,8 @@
       "brand": "Candle nest",
       "img": "/images/blue-tops/1_5aecf27f-6642-4d15-9931-5c6b3568084e.jpg",
       "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
-      "date": "2023-11-21T00:00:00.000Z",
-      "formattedDate": "January 21, 2024",
+      "date": "2024-01-20T00:00:00.000Z",
+      "formattedDate": "January 20, 2024",
       "images": [
         {
           "id": "image1",
@@ -700,8 +700,8 @@
       "brand": "Gatta",
       "img": "/images/black-sweater/1-modelinfo-cathlin-us2_7eb9c8af-753e-419d-b718-a66b2dc91baa.jpg",
       "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
-      "date": "2023-11-21T00:00:00.000Z",
-      "formattedDate": "January 22, 2024",
+      "date": "2024-01-21T00:00:00.000Z",
+      "formattedDate": "January 21, 2024",
       "images": [
         {
           "id": "image1",
@@ -713,11 +713,11 @@
         },
         {
           "id": "image3",
-          "img2": "/images/black-sweater/4-modelinfo-cathlin-us2_126cb9d7-05fb-48c4-9de8-4c4f144dab0c.jpg"
+          "img3": "/images/black-sweater/4-modelinfo-cathlin-us2_126cb9d7-05fb-48c4-9de8-4c4f144dab0c.jpg"
         },
         {
           "id": "image4",
-          "img2": "/images/black-sweater/5-modelinfo-cathlin-us2_b0140f3e-36f6-4ee1-b3d0-5b36a4a193d8.jpg"
+          "img4": "/images/black-sweater/5-modelinfo-cathlin-us2_b0140f3e-36f6-4ee1-b3d0-5b36a4a193d8.jpg"
         }
       ]
     },
@@ -737,7 +737,7 @@
       "brand": "Beyond Green",
       "img": "/images/green-dress/1-modelinfo-Kristen-us2_0f89661b-5ac9-4d46-9054-d03e04ce540a.jpg",
       "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
-      "date": "2023-11-21T00:00:00.000Z",
+      "date": "2024-01-22T00:00:00.000Z",
       "formattedDate": "January 22, 2024",
       "images": [
         {
@@ -750,11 +750,307 @@
         },
         {
           "id": "image3",
-          "img2": "/images/green-dress/3-modelinfo-Kristen-us2_c4a36236-9a15-4cfe-af1b-450b338c5191.jpg"
+          "img3": "/images/green-dress/3-modelinfo-Kristen-us2_c4a36236-9a15-4cfe-af1b-450b338c5191.jpg"
         },
         {
           "id": "image4",
-          "img2": "/images/black-sweater/4-modelinfo-Kristen-us2_45360831-4e68-4124-860e-6b5c4d75955c.jpg"
+          "img4": "/images/green-dress/4-modelinfo-Kristen-us2_45360831-4e68-4124-860e-6b5c4d75955c.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsf",
+      "price": "above 2500",
+      "priceR": "3000",
+      "size": "M",
+      "chlotes": "Vintage облека",
+      "color": "green",
+      "discountProcent": 10,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Зеленa јакна",
+      "category": "Jakni",
+      "brand": "Beyond Green",
+      "img": "/images/green-jacket/1_228.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-23T00:00:00.000Z",
+      "formattedDate": "January 23, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/green-jacket/1_228.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/green-jacket/2_209.jpg"
+        },
+        {
+          "id": "image3",
+          "img3": "/images/green-jacket/3_189.jpg"
+        },
+        {
+          "id": "image4",
+          "img4": "/images/green-jacket/4_162.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
+      "price": "above 2500",
+      "priceR": "3000",
+      "size": "M",
+      "chlotes": "Vintage облека",
+      "color": "green",
+      "discountProcent": 10,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Зелени шорцеви",
+      "category": "Zdolnishta / shorcevi",
+      "brand": "Beyond Green",
+      "img": "/images/green-shorts/1-modelinfo-tokaya-us2_51bb6b97-3dc6-4513-aa6a-35fe1de38f6b.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-25T00:00:00.000Z",
+      "formattedDate": "January 25, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/green-shorts/1-modelinfo-tokaya-us2_51bb6b97-3dc6-4513-aa6a-35fe1de38f6b.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/green-shorts/2-modelinfo-tokaya-us2_25c7a1f2-47a5-431f-9bf7-207f59b06c37.jpg"
+        },
+        {
+          "id": "image3",
+          "img3": "/images/green-shorts/4-modelinfo-tokaya-us2_49b43b14-824c-4d1c-b0ff-deb09b2c0e2e.jpg"
+        },
+        {
+          "id": "image4",
+          "img4": "/images/green-shorts/4-modelinfo-tokaya-us2_49b43b14-824c-4d1c-b0ff-deb09b2c0e2e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "14e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
+      "price": "1000-1500",
+      "priceR": "1200",
+      "size": "l",
+      "chlotes": "Vintage облека",
+      "color": "grey",
+      "discountProcent": 10,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Сиви панталони",
+      "category": "Pantaloni",
+      "brand": "Urma",
+      "img": "/images/grey-pants/1-modelinfo-cathlin-us2_53489024-ab1a-424a-8e78-682851f829e7.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-26T00:00:00.000Z",
+      "formattedDate": "January 26, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/grey-pants/1-modelinfo-cathlin-us2_53489024-ab1a-424a-8e78-682851f829e7.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/grey-pants/2-modelinfo-cathlin-us2_d8402b7e-d490-4a42-bff0-98b0b6837069.jpg"
+        },
+        {
+          "id": "image3",
+          "img3": "/images/grey-pants/3-modelinfo-cathlin-us2_da12341d-e4bb-475d-bcfc-d6bfa636420b.jpg"
+        },
+        {
+          "id": "image4",
+          "img4": "/images/grey-pants/4-modelinfo-cathlin-us2_77cb329a-e028-40c1-9b80-9b5fbab3dd99.jpg"
+        }
+      ]
+    },
+    {
+      "id": "114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
+      "price": "1000-1500",
+      "priceR": "1200",
+      "size": "l",
+      "chlotes": "Vintage облека",
+      "color": "pink",
+      "discountProcent": 10,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Розев фустан",
+      "category": "Fustani",
+      "brand": "Fraeil",
+      "img": "/images/pink-dress/0-modelinfo-saskia-us2_62d9d63f-8287-4e9d-a855-d89d412b4f67.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-26T00:00:00.000Z",
+      "formattedDate": "January 26, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/pink-dress/0-modelinfo-saskia-us2_62d9d63f-8287-4e9d-a855-d89d412b4f67.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/pink-dress/1-modelinfo-Saskia-us2_d03b2052-babb-4e22-a755-355d8268b570.jpg"
+        },
+        {
+          "id": "image3",
+          "img3": "/images/pink-dress/3-modelinfo-Saskia-us2_ccfd0562-adfd-4e7e-827c-048469beb853.jpg"
+        },
+        {
+          "id": "image4",
+          "img4": "/images/pink-dress/4-modelinfo-Saskia-us2_7832f75b-6137-4b56-b820-6dbf08571015 (1).jpg"
+        }
+      ]
+    },
+    {
+      "id": "1114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
+      "price": "1000-1500",
+      "priceR": "1300",
+      "size": "l",
+      "chlotes": "Vintage облека",
+      "color": "pink",
+      "discountProcent": 10,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Розев џемпер",
+      "category": "Bluzi",
+      "brand": "Zsh da ne",
+      "img": "/images/pink-tops/1_88e0f704-0c53-4fd0-b6e4-e2a5fc0003fc.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-27T00:00:00.000Z",
+      "formattedDate": "January 27, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/pink-tops/1_88e0f704-0c53-4fd0-b6e4-e2a5fc0003fc.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/pink-tops/2_f4f580b8-dbc0-4ada-8976-1e3f3b532ba7.jpg"
+        },
+        {
+          "id": "image3",
+          "img3": "/images/pink-tops/3_12ed4e7a-8ad0-4ece-845d-3dab9c2881ba.jpg"
+        },
+        {
+          "id": "image4",
+          "img4": "/images/pink-tops/4_a11c0fa2-6320-4ec1-b276-3148fa54d0fe.jpg"
+        }
+      ]
+    },
+    {
+      "id": "11114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
+      "price": "1000-1500",
+      "priceR": "1400",
+      "size": "l",
+      "chlotes": "Vintage облека",
+      "color": "red",
+      "discountProcent": 10,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Црвен фустан",
+      "category": "Fustani",
+      "brand": "Nash",
+      "img": "/images/red-dress/1-modelinfo-elise-us2_9437adcc-e875-48ef-8665-39da3b17cbf1.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-28T00:00:00.000Z",
+      "formattedDate": "January 28, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/red-dress/1-modelinfo-elise-us2_9437adcc-e875-48ef-8665-39da3b17cbf1.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/red-dress/2-modelinfo-elise-us2_5762a152-89eb-44b5-8d74-712d2f9b76a3.jpg"
+        },
+        {
+          "id": "image3",
+          "img3": "/images/red-dress/3-modelinfo-elise-us2_09f5c9fd-8d6c-4202-96c5-54b4a5a328c0.jpg"
+        },
+        {
+          "id": "image4",
+          "img4": "/images/red-dress/4-modelinfo-elise-us2_a0ab4b46-f48e-4a0e-bcc0-a6fe5485e336.jpg"
+        }
+      ]
+    },
+    {
+      "id": "111114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
+      "price": "1000-1500",
+      "priceR": "1400",
+      "size": "l",
+      "chlotes": "Vintage облека",
+      "color": "red",
+      "discountProcent": 10,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Црвен џемпер",
+      "category": "Bluzi",
+      "brand": "Red",
+      "img": "/images/red-tops/1-modelinfo-cathlin-us2_77d9eafc-3077-4bfe-a0e1-97780f8b06a5.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-29T00:00:00.000Z",
+      "formattedDate": "January 29, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/red-tops/1-modelinfo-cathlin-us2_77d9eafc-3077-4bfe-a0e1-97780f8b06a5.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/red-tops/2-modelinfo-cathlin-us2_7f322376-77a1-4445-ba04-2662cc1414d8.jpg"
+        },
+        {
+          "id": "image3",
+          "img3": "/images/red-tops/3-modelinfo-cathlin-us2_0d0f62cb-393c-43a7-bd01-5e3708bb9bac.jpg"
+        },
+        {
+          "id": "image4",
+          "img4": "/images/red-tops/4-modelinfo-cathlin-us2_99e7c03a-1edf-4ac4-83d9-39a3fe57c6d2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
+      "price": "1000-1500",
+      "priceR": "1200",
+      "size": "l",
+      "chlotes": "Vintage облека",
+      "color": "white",
+      "discountProcent": 10,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Бели панталони",
+      "category": "Pantaloni",
+      "brand": "Nezno",
+      "img": "/images/white-pants/1-modelinfo-Kristen-us2_5220d3a3-b7fd-4b16-9e7b-165255c24b07.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-29T00:00:00.000Z",
+      "formattedDate": "January 29, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/white-pants/1-modelinfo-Kristen-us2_5220d3a3-b7fd-4b16-9e7b-165255c24b07.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/white-pants/2-modelinfo-Kristen-us2_7e03c339-d511-4a9a-aa00-f1b0caf251de.jpg"
+        },
+        {
+          "id": "image3",
+          "img3": "/images/white-pants/2-modelinfo-Kristen-us2_7e03c339-d511-4a9a-aa00-f1b0caf251de.jpg"
+        },
+        {
+          "id": "image4",
+          "img4": "/images/white-pants/2-modelinfo-Kristen-us2_7e03c339-d511-4a9a-aa00-f1b0caf251de.jpg"
         }
       ]
     }
