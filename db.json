@@ -661,26 +661,26 @@
       "title": "Син џемпер",
       "category": "Bluzi",
       "brand": "Candle nest",
-      "img": "/images/blue-tops/1_5aecf27f-6642-4d15-9931-5c6b3568084e.webp",
+      "img": "/images/blue-tops/1_5aecf27f-6642-4d15-9931-5c6b3568084e.jpg",
       "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
       "date": "2023-11-21T00:00:00.000Z",
       "formattedDate": "January 21, 2024",
       "images": [
         {
           "id": "image1",
-          "img1": "/images/blue-tops/1_5aecf27f-6642-4d15-9931-5c6b3568084e.webp"
+          "img1": "/images/blue-tops/1_5aecf27f-6642-4d15-9931-5c6b3568084e.jpg"
         },
         {
           "id": "image2",
-          "img2": "/images/blue-tops/2_f4b6ae8e-700d-4997-8022-cbb277e3606d.webp"
+          "img2": "/images/blue-tops/3_086e5286-5a31-4186-8ced-eed6bea01f64.jpg"
         },
         {
           "id": "image3",
-          "img2": "/images/blue-tops/3_086e5286-5a31-4186-8ced-eed6bea01f64.webp"
+          "img2": "/images/blue-tops/4_c2f54e91-f0c8-4bbd-8545-c769a1851a0e.jpg"
         },
         {
           "id": "image4",
-          "img2": "/images/blue-tops/4_c2f54e91-f0c8-4bbd-8545-c769a1851a0e.webp"
+          "img2": "/images/blue-tops/ANAYA-JUMPER-MONDAY-BLUES-3.jpg"
         }
       ]
     },
@@ -701,7 +701,7 @@
       "img": "/images/black-sweater/1-modelinfo-cathlin-us2_7eb9c8af-753e-419d-b718-a66b2dc91baa.jpg",
       "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
       "date": "2023-11-21T00:00:00.000Z",
-      "formattedDate": "January 21, 2024",
+      "formattedDate": "January 22, 2024",
       "images": [
         {
           "id": "image1",
@@ -709,15 +709,15 @@
         },
         {
           "id": "image2",
-          "img2": "/images/black-sweater/3-modelinfo-cathlin-us2_0d956498-4135-4304-9535-e58156665d32.webp"
+          "img2": "/images/black-sweater/3-modelinfo-cathlin-us2_0d956498-4135-4304-9535-e58156665d32.jpg"
         },
         {
           "id": "image3",
-          "img2": "/images/black-sweater/4-modelinfo-cathlin-us2_126cb9d7-05fb-48c4-9de8-4c4f144dab0c.webp"
+          "img2": "/images/black-sweater/4-modelinfo-cathlin-us2_126cb9d7-05fb-48c4-9de8-4c4f144dab0c.jpg"
         },
         {
           "id": "image4",
-          "img2": "/images/black-sweater/5-modelinfo-cathlin-us2_b0140f3e-36f6-4ee1-b3d0-5b36a4a193d8.webp"
+          "img2": "/images/black-sweater/5-modelinfo-cathlin-us2_b0140f3e-36f6-4ee1-b3d0-5b36a4a193d8.jpg"
         }
       ]
     }
