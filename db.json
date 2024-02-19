@@ -720,6 +720,43 @@
           "img2": "/images/black-sweater/5-modelinfo-cathlin-us2_b0140f3e-36f6-4ee1-b3d0-5b36a4a193d8.jpg"
         }
       ]
+    },
+    {
+      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddv",
+      "price": "1500-2000",
+      "priceR": "1800",
+      "size": "S",
+      "chlotes": "Vintage облека",
+      "color": "green",
+      "discountProcent": 30,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Зелен фустан",
+      "category": "Fustani",
+      "brand": "Beyond Green",
+      "img": "/images/green-dress/1-modelinfo-Kristen-us2_0f89661b-5ac9-4d46-9054-d03e04ce540a.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2023-11-21T00:00:00.000Z",
+      "formattedDate": "January 22, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/green-dress/1-modelinfo-Kristen-us2_0f89661b-5ac9-4d46-9054-d03e04ce540a.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/green-dress/2-modelinfo-Kristen-us2_b4639df7-694f-468f-ae43-98cce08cdd4a.jpg"
+        },
+        {
+          "id": "image3",
+          "img2": "/images/green-dress/3-modelinfo-Kristen-us2_c4a36236-9a15-4cfe-af1b-450b338c5191.jpg"
+        },
+        {
+          "id": "image4",
+          "img2": "/images/black-sweater/4-modelinfo-Kristen-us2_45360831-4e68-4124-860e-6b5c4d75955c.jpg"
+        }
+      ]
     }
   ],
   "brands": [
