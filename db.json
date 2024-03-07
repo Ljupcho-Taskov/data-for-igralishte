@@ -602,11 +602,47 @@
           "img2": "/images/silver-accessories/2_03c60a59-cfd0-4fa4-a29f-f2e0aa3f7cea.jpg"
         }
       ]
+    },
+    {
+      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq23",
+      "price": "1000-1500",
+      "priceR": "1200",
+      "chlotes": "Vintage облека",
+      "color": "црна",
+      "discountProcent": 15,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Црна ташна",
+      "accessories": "Ташни",
+      "brand": "Нежно",
+      "img": "/images/black-bags/1_3ed69f47-6624-491c-92ac-9e430ce4aef6.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-29T00:00:00.000Z",
+      "formattedDate": "January 29, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/black-bags/1_3ed69f47-6624-491c-92ac-9e430ce4aef6.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/black-bags/1-modelinfo-sneha-us2_6a758f7e-bd0a-402a-aea7-dcc60548189c"
+        },
+        {
+          "id": "image3",
+          "img3": "/black-bags/2_84164497-66d7-4f4d-93d9-e0f60a206e20"
+        },
+        {
+          "id": "image4",
+          "img4": "/black-bags/3_521da867-f49f-4fc7-8f38-f9530dfbd04b"
+        }
+      ]
     }
   ],
   "accessories": [
     {
-      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq1",
+      "id": "11",
       "price": "1000-1500",
       "priceR": "1200",
       "chlotes": "Vintage облека",
@@ -634,7 +670,7 @@
       ]
     },
     {
-      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq2",
+      "id": "22",
       "price": "1000-1500",
       "priceR": "1200",
       "chlotes": "Vintage облека",
@@ -658,6 +694,43 @@
         {
           "id": "image2",
           "img2": "/images/silver-accessories/2_03c60a59-cfd0-4fa4-a29f-f2e0aa3f7cea.jpg"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "price": "1000-1500",
+      "priceR": "1200",
+      "chlotes": "Vintage облека",
+      "color": "црна",
+      "discountProcent": 15,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Црна ташна",
+      "category": "Ташни",
+      "accessories": "Ташни",
+      "brand": "Нежно",
+      "img": "/images/black-bags/1_3ed69f47-6624-491c-92ac-9e430ce4aef6.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-29T00:00:00.000Z",
+      "formattedDate": "January 29, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/black-bags/1_3ed69f47-6624-491c-92ac-9e430ce4aef6.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/black-bags/1-modelinfo-sneha-us2_6a758f7e-bd0a-402a-aea7-dcc60548189c"
+        },
+        {
+          "id": "image3",
+          "img3": "/black-bags/2_84164497-66d7-4f4d-93d9-e0f60a206e20"
+        },
+        {
+          "id": "image4",
+          "img4": "/black-bags/3_521da867-f49f-4fc7-8f38-f9530dfbd04b"
         }
       ]
     }
