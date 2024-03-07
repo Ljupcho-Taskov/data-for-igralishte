@@ -546,6 +546,62 @@
           "img4": "/images/white-pants/2-modelinfo-Kristen-us2_7e03c339-d511-4a9a-aa00-f1b0caf251de.jpg"
         }
       ]
+    },
+    {
+      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq1",
+      "price": "1000-1500",
+      "priceR": "1200",
+      "chlotes": "Vintage облека",
+      "color": "white",
+      "discountProcent": 15,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Бели Обетки",
+      "category": "Обетки",
+      "brand": "Нежно",
+      "img": "/images/white-earings/0_65155e67-0f6a-4c78-a9af-d85927df7b36.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-29T00:00:00.000Z",
+      "formattedDate": "January 29, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/white-earings/0_65155e67-0f6a-4c78-a9af-d85927df7b36.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/white-earings/1_94f0fd7d-e30d-4a48-b8e5-cef1d8093d68.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq2",
+      "price": "1000-1500",
+      "priceR": "1200",
+      "chlotes": "Vintage облека",
+      "color": "silver",
+      "discountProcent": 15,
+      "discount": true,
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "title": "Сиви аксесоари",
+      "category": "Обетки",
+      "brand": "Нежно",
+      "img": "/images/silver-accessories/1_88019246-08f8-465d-8acc-cf167d00fd85.jpg",
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "date": "2024-01-29T00:00:00.000Z",
+      "formattedDate": "January 29, 2024",
+      "images": [
+        {
+          "id": "image1",
+          "img1": "/images/silver-accessories/1_88019246-08f8-465d-8acc-cf167d00fd85.jpg"
+        },
+        {
+          "id": "image2",
+          "img2": "/images/silver-accessories/2_03c60a59-cfd0-4fa4-a29f-f2e0aa3f7cea.jpg"
+        }
+      ]
     }
   ],
   "accessories": [
