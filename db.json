@@ -1,13 +1,15 @@
 {
   "products": [
     {
-      "id": "6c39f48f-987b-4dcc-8fe4-3a218b8cd2773",
-      "price": "500-1000",
-      "priceR": "900",
+      "id": "1",
+      "pricR": "500-1000",
+      "price": "900",
       "chlotes": "Vintage облека",
       "title": "Зелена Кратка Блуза",
       "category": "Блузи",
       "brand": "Main Days",
+      "material": "100% Полиестер",
+      "maintenance": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
       "img": "/images/tops 1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat consequat enim, non auctor massa ultrices non. Morbi sed odio massa. Quisque at vehicula tellus, sed tincidunt augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas varius egestas diam, eu sodales metus scelerisque congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas gravida justo eu arcu egestas convallis. Nullam eu erat bibendum, tempus ipsum eget, dictum enim. Donec non neque ut enim dapibus tincidunt vitae nec augue. Suspendisse potenti. Proin ut est diam. Donec condimentum euismod tortor, eget facilisis diam faucibus et. Morbi a tempor elit.",
       "color": "green",
@@ -35,9 +37,9 @@
     },
 
     {
-      "id": "3ff4df2f-9386-40eb-8213-d621a0efe737",
-      "price": "above 2500",
-      "priceR": "3500",
+      "id": "2",
+      "priceR": "1000-1500",
+      "price": "1400",
       "size": "S",
       "chlotes": "Vintage облека",
       "category": "Долна облека",
@@ -70,9 +72,9 @@
       ]
     },
     {
-      "id": "ca5c4350-505f-4aa2-a6f8-5597fdaf08a2",
-      "price": "above 2500",
-      "priceR": "3500",
+      "id": "3",
+      "priceR": "1500-2000",
+      "price": "1600",
       "size": "M",
       "chlotes": "Vintage облека",
       "category": "Блузи",
@@ -105,9 +107,9 @@
       ]
     },
     {
-      "id": "38ea2fc7-a2e9-4519-861b-7d6e47b47292",
-      "price": "1500-2000",
-      "priceR": "1600",
+      "id": "4",
+      "priceR": "2000-2500",
+      "price": "2100",
       "size": "L",
       "color": "black",
       "chlotes": "Vintage облека",
@@ -141,9 +143,9 @@
     },
 
     {
-      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111dd",
-      "price": "1500-2000",
-      "priceR": "1600",
+      "id": "5",
+      "priceR": "повеќе од 2500",
+      "price": "2600",
       "size": "S",
       "chlotes": "Vintage облека",
       "color": "blue",
@@ -178,9 +180,9 @@
       ]
     },
     {
-      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwq",
-      "price": "1500-2000",
-      "priceR": "1600",
+      "id": "6",
+      "priceR": "1500-2000",
+      "price": "1600",
       "size": "S",
       "chlotes": "Vintage облека",
       "color": "black",
@@ -215,9 +217,9 @@
       ]
     },
     {
-      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddv",
-      "price": "1500-2000",
-      "priceR": "1800",
+      "id": "7",
+      "priceR": "1500-2000",
+      "price": "1800",
       "size": "S",
       "chlotes": "Vintage облека",
       "color": "green",
@@ -252,9 +254,9 @@
       ]
     },
     {
-      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsf",
-      "price": "above 2500",
-      "priceR": "3000",
+      "id": "8",
+      "priceR": "повеќе од 2500",
+      "price": "3000",
       "size": "M",
       "chlotes": "Vintage облека",
       "color": "green",
@@ -289,9 +291,9 @@
       ]
     },
     {
-      "id": "4e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
-      "price": "above 2500",
-      "priceR": "3000",
+      "id": "9",
+      "priceR": "повеќе од 2500",
+      "price": "3000",
       "size": "M",
       "chlotes": "Vintage облека",
       "color": "green",
@@ -326,9 +328,9 @@
       ]
     },
     {
-      "id": "14e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "10",
+      "priceR": "1000-1500",
+      "price": "1200",
       "size": "M",
       "chlotes": "Vintage облека",
       "color": "grey",
@@ -363,9 +365,9 @@
       ]
     },
     {
-      "id": "114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "11",
+      "priceR": "1000-1500",
+      "price": "1200",
       "size": "XL",
       "chlotes": "Vintage облека",
       "color": "pink",
@@ -400,9 +402,9 @@
       ]
     },
     {
-      "id": "1114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
-      "price": "1000-1500",
-      "priceR": "1300",
+      "id": "12",
+      "priceR": "1000-1500",
+      "price": "1300",
       "size": "XS",
       "chlotes": "Vintage облека",
       "color": "pink",
@@ -437,9 +439,9 @@
       ]
     },
     {
-      "id": "11114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
-      "price": "1000-1500",
-      "priceR": "1400",
+      "id": "13",
+      "priceR": "1000-1500",
+      "price": "1400",
       "size": "S",
       "chlotes": "Vintage облека",
       "color": "red",
@@ -474,9 +476,9 @@
       ]
     },
     {
-      "id": "111114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
-      "price": "1000-1500",
-      "priceR": "1400",
+      "id": "14",
+      "priceR": "1000-1500",
+      "price": "1400",
       "size": "L",
       "chlotes": "Vintage облека",
       "color": "red",
@@ -511,9 +513,9 @@
       ]
     },
     {
-      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "15",
+      "priceR": "1000-1500",
+      "price": "1200",
       "size": "M",
       "chlotes": "Vintage облека",
       "color": "white",
@@ -548,9 +550,9 @@
       ]
     },
     {
-      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq1",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "16",
+      "priceR": "1000-1500",
+      "price": "1200",
       "chlotes": "Vintage облека",
       "color": "white",
       "discountProcent": 15,
@@ -576,9 +578,9 @@
       ]
     },
     {
-      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq2",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "17",
+      "priceR": "1000-1500",
+      "price": "1200",
       "chlotes": "Vintage облека",
       "color": "grey",
       "discountProcent": 15,
@@ -604,9 +606,9 @@
       ]
     },
     {
-      "id": "1211114e89b6df-9e03-4a3f-a170-c39f7871a9e9111ddwqddvdsfq23",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "18",
+      "priceR": "1000-1500",
+      "price": "1200",
       "chlotes": "Vintage облека",
       "color": "black",
       "discountProcent": 15,
@@ -642,9 +644,9 @@
   ],
   "accessories": [
     {
-      "id": "11",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "19",
+      "priceR": "1000-1500",
+      "price": "1200",
       "chlotes": "Vintage облека",
       "color": "white",
       "discountProcent": 15,
@@ -670,9 +672,9 @@
       ]
     },
     {
-      "id": "22",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "20",
+      "priceR": "1000-1500",
+      "price": "1200",
       "chlotes": "Vintage облека",
       "color": "grey",
       "discountProcent": 15,
@@ -698,9 +700,9 @@
       ]
     },
     {
-      "id": "33",
-      "price": "1000-1500",
-      "priceR": "1200",
+      "id": "21",
+      "priceR": "1000-1500",
+      "price": "1200",
       "chlotes": "Vintage облека",
       "color": "black",
       "discountProcent": 15,
@@ -722,22 +724,22 @@
         },
         {
           "id": "image2",
-          "img2": "/black-bags/1-modelinfo-sneha-us2_6a758f7e-bd0a-402a-aea7-dcc60548189c.jpg"
+          "img2": "/images/black-bags/1-modelinfo-sneha-us2_6a758f7e-bd0a-402a-aea7-dcc60548189c.jpg"
         },
         {
           "id": "image3",
-          "img3": "/black-bags/2_84164497-66d7-4f4d-93d9-e0f60a206e20.jpg"
+          "img3": "/images/black-bags/2_84164497-66d7-4f4d-93d9-e0f60a206e20.jpg"
         },
         {
           "id": "image4",
-          "img4": "/black-bags/3_521da867-f49f-4fc7-8f38-f9530dfbd04b.jpg"
+          "img4": "/images/black-bags/3_521da867-f49f-4fc7-8f38-f9530dfbd04b.jpg"
         }
       ]
     }
   ],
   "brands": [
     {
-      "id": "1",
+      "id": "22",
       "category": "Pinc Partywear",
       "brand": "Stranski brendovi",
       "price": "3500",
@@ -772,7 +774,7 @@
     },
 
     {
-      "id": "2",
+      "id": "23",
       "category": "Factory Girl",
       "brand": "Stranski brendovi",
       "price": "3500",
@@ -806,7 +808,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "24",
       "category": "Main Days",
       "brand": "Stranski brendovi",
       "price": "3500",
@@ -840,7 +842,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "25",
       "category": "Нежно",
       "brand": "Localni brendovi",
       "price": "3500",
@@ -874,7 +876,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "26",
       "category": "Ред",
       "brand": "Localni brendovi",
       "price": "3500",
@@ -908,7 +910,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "27",
       "category": "Зш да не",
       "brand": "Localni brendovi",
       "price": "3500",
@@ -942,7 +944,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "28",
       "category": "Наш",
       "brand": "Localni brendovi",
       "price": "3500",
@@ -976,7 +978,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "29",
       "category": "Fraeil",
       "brand": "Stranski brendovi",
       "price": "3500",
@@ -1010,7 +1012,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "30",
       "category": "Urma",
       "brand": "Stranski brendovi",
       "price": "3500",
@@ -1044,7 +1046,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "31",
       "category": "Candle nest",
       "brand": "Stranski brendovi",
       "price": "500",
@@ -1078,7 +1080,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "32",
       "category": "Beyond Green",
       "brand": "Stranski brendovi",
       "price": "500",
@@ -1112,7 +1114,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "33",
       "category": "Gatta",
       "brand": "Stranski brendovi",
       "price": "500",
@@ -1149,49 +1151,49 @@
 
   "priceCards": [
     {
-      "id": "1",
+      "id": "34",
       "price": "500",
       "title": "Gift Card"
     },
     {
-      "id": "2",
+      "id": "35",
       "price": "1000",
       "title": "Gift Card"
     },
     {
-      "id": "3",
+      "id": "36",
       "price": "1500",
       "title": "Gift Card"
     },
     {
-      "id": "4",
+      "id": "37",
       "price": "2000",
       "title": "Gift Card"
     },
     {
-      "id": "5",
+      "id": "38",
       "price": "4500",
       "title": "Gift Card"
     }
   ],
   "faq": [
     {
-      "id": "1",
+      "id": "39",
       "title": "Ова е примерок за прашања кои би биле на страната? ",
       "desc": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
-      "id": "2",
+      "id": "40",
       "title": "Ова е примерок за прашања кои би биле на страната? ",
       "desc": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
-      "id": "3",
+      "id": "41",
       "title": "Ова е примерок за прашања кои би биле на страната? ",
       "desc": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
-      "id": "4",
+      "id": "42",
       "title": "Ова е примерок за прашања кои би биле на страната? ",
       "desc": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     }
