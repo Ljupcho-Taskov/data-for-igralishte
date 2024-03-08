@@ -13,7 +13,7 @@
       "img": "/images/tops 1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat consequat enim, non auctor massa ultrices non. Morbi sed odio massa. Quisque at vehicula tellus, sed tincidunt augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas varius egestas diam, eu sodales metus scelerisque congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas gravida justo eu arcu egestas convallis. Nullam eu erat bibendum, tempus ipsum eget, dictum enim. Donec non neque ut enim dapibus tincidunt vitae nec augue. Suspendisse potenti. Proin ut est diam. Donec condimentum euismod tortor, eget facilisis diam faucibus et. Morbi a tempor elit.",
       "color": "green",
-      "size": "XL",
+      "size": "XS",
       "date": "2023-12-04T00:00:00.000Z",
       "formattedDate": "December 4, 2023",
       "images": [
@@ -146,7 +146,7 @@
       "id": "5",
       "priceR": "повеќе од 2500",
       "price": "2600",
-      "size": "S",
+      "size": "XL",
       "chlotes": "Vintage облека",
       "color": "blue",
       "discountProcent": 20,
